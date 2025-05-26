@@ -1,0 +1,21 @@
+{
+  "name": "zoren",
+  "displayName": "zoren",
+  "description": "Color theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.100.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "viniciuslazzari",
+        "uiTheme": "vs-dark",
+        "path": "./themes/viniciuslazzari-color-theme.json"
+      }
+    ]
+  }
+}
