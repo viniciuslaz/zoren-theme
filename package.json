@@ -3,6 +3,7 @@
   "displayName": "Zoren Theme",
   "description": "A high-contrast theme",
   "version": "1.0.1",
+  "icon": "zoren.png",
   "engines": {
     "vscode": "^1.100.0"
   },
