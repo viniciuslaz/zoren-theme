@@ -1,8 +1,8 @@
 {
   "name": "zoren",
   "displayName": "Zoren Theme",
-  "description": "A high-contrast theme",
-  "version": "1.0.1",
+  "description": "A great light and dark theme that's easy on the eyes and full of vibrant colors.",
+  "version": "1.0.3",
   "icon": "zoren.png",
   "engines": {
     "vscode": "^1.100.0"
@@ -16,6 +16,11 @@
         "label": "Zoren Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/zorendark-color-theme.json"
+      },
+      {
+        "label": "Zoren Light",
+        "uiTheme": "vs",
+        "path": "./themes/zorenlight-color-theme.json"
       }
     ]
   }
