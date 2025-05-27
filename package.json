@@ -2,8 +2,9 @@
   "name": "zoren",
   "displayName": "Zoren Theme",
   "description": "A great light and dark theme that's easy on the eyes and full of vibrant colors.",
-  "version": "1.0.3",
-  "icon": "zoren.png",
+  "publisher": "viniciuslazzari",
+  "version": "1.2.0",
+  "icon": "zoren_v2.png",
   "engines": {
     "vscode": "^1.100.0"
   },
