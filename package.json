@@ -1,8 +1,8 @@
 {
   "name": "zoren",
-  "displayName": "zoren",
-  "description": "Color theme",
-  "version": "0.0.1",
+  "displayName": "Zoren Theme",
+  "description": "A high-contrast theme",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.100.0"
   },
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "viniciuslazzari",
+        "label": "Zoren Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/viniciuslazzari-color-theme.json"
+        "path": "./themes/zorendark-color-theme.json"
       }
     ]
   }
