@@ -11,7 +11,10 @@
     "activityBar.dropBorder": "#bfd0ff",
     "activityBar.foreground": "#999999",
     "badge.background": "#0000001a",
+
     "button.background": "#0000000f",
+    "button.foreground": "#666",
+
     "dropdown.background": "#ffffff",
     "editor.background": "#f9f9f9",
     "editor.lineHighlightBorder": "#00000010",

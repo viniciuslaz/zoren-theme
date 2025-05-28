@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 #### Light theme
 
 - Some quick input colors have been adjusted.
+- Button foreground color has been adjusted.
 
 ## [1.2.2] - 2025-05-28
 
