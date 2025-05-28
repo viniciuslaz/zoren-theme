@@ -31,14 +31,19 @@
     "input.background": "#ffffff",
     "input.border": "#0000001a",
     "input.placeholderForeground": "#999999",
+
     "list.activeSelectionBackground": "#0000000a",
+    "list.activeSelectionForeground": "#666",
     "list.focusOutline": "#cccccc",
     "list.hoverBackground": "#0000000f",
+
     "panel.background": "#ffffff",
     "panel.border": "#cccccc",
     "panelTitle.inactiveForeground": "#999999",
     "pickerGroup.border": "#b0b0b0",
+
     "sideBar.background": "#f9f9f9",
+    "sideBar.foreground": "#666",
     "sideBar.border": "#f0f0f0",
     "sideBarSectionHeader.background": "#f9f9f9",
 
