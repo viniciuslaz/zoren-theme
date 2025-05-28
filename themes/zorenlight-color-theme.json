@@ -42,6 +42,8 @@
     "panelTitle.inactiveForeground": "#999999",
     "pickerGroup.border": "#b0b0b0",
 
+    "quickInput.foreground": "#666",
+
     "sideBar.background": "#f9f9f9",
     "sideBar.foreground": "#666",
     "sideBar.border": "#f0f0f0",
