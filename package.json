@@ -8,6 +8,11 @@
   "engines": {
     "vscode": "^1.100.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/viniciuslaz/zoren-theme"
+  },
+  "license": "MIT",
   "categories": [
     "Themes"
   ],
